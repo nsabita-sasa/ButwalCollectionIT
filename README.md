@@ -1,5 +1,5 @@
 # ButwalCollectionIT
-Butwal Collection : IT (Colleges , Company , Organization )
+> Butwal Collection : IT (Colleges , Company , Organization )
 
 # IT Colleges 
 1. Butwal Multiple Campus (Bachelor Level)
