@@ -8,3 +8,12 @@ Butwal Collection : IT (Colleges , Company , Organization )
 4. Crimson College of Technology (Bachelor Level and Diploma level)
 5. Lumbini Engineering College (Bachelor Level)
 6. Kalika Higher Secondary School (School Level and +2 level)
+
+
+# IT Company 
+1. Nepal Creative Tech
+2. KhozInfo 
+3. Innovation Techo Nepal
+4. Intanglio 
+5. Infoxit
+6. JustRing Nepal
