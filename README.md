@@ -17,3 +17,8 @@
 4. Intanglio 
 5. Infoxit
 6. JustRing Nepal
+
+# IT organization
+1. CSIT Association of BMC
+2. Butwal Coder Girls
+3. Robotics club of LEC
