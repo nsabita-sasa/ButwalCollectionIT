@@ -13,12 +13,14 @@
 # IT Company 
 1. Nepal Creative Tech
 2. KhozInfo 
-3. Innovation Techo Nepal
-4. Intanglio 
-5. Infoxit
-6. JustRing Nepal
+3. Innovative Techo Nepal
+4. Infoxit
+5. JustRing Nepal
+6. Doersbase
+7. Idoocoo
 
 # IT organization
 1. CSIT Association of BMC
 2. Butwal Coder Girls
 3. Robotics club of LEC
+4. CSIT Association of Nepal - Butwal
