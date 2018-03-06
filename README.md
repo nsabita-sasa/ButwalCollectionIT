@@ -24,3 +24,4 @@
 2. Butwal Coder Girls
 3. Robotics club of LEC
 4. CSIT Association of Nepal - Butwal
+5. Computer Association of Nepal - Rupandehi
