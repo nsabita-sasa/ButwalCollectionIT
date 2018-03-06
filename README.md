@@ -6,7 +6,7 @@
 2. Tinau Technical Campus (Bachelor Level)
 3. Nepathya College (Bachelor Level)
 4. Crimson College of Technology (Bachelor Level and Diploma level)
-5. Lumbini Engineering College (Bachelor Level)
+5. Lumbini Engineering College (Bachelor Level and Diploma level)
 6. Kalika Higher Secondary School (School Level and +2 level)
 
 
@@ -17,7 +17,7 @@
 4. Infoxit
 5. JustRing Nepal
 6. Doersbase
-7. Idoocoo
+7. Idooco
 
 # IT organization
 1. CSIT Association of BMC
