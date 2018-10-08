@@ -1,5 +1,6 @@
-# ButwalCollectionIT
-> Butwal Collection : IT (Colleges , Company , Organization )
+# Butwal IT Collection
+
+> Butwal Collection : IT Colleges , Software Company and Organization 
 
 # IT Colleges 
 1. Butwal Multiple Campus (Bachelor Level)
@@ -9,8 +10,9 @@
 5. Lumbini Engineering College (Bachelor Level and Diploma level)
 6. Kalika Higher Secondary School (School Level and +2 level)
 
+---
 
-# IT Company 
+# Software Company 
 1. Nepal Creative Tech
 2. KhozInfo 
 3. Innovative Techo Nepal
@@ -21,6 +23,7 @@
 8. Axion Infosys
 9. Webroot Nepal
 
+---
 
 # IT organization
 1. CSIT Association of BMC
