@@ -18,6 +18,9 @@
 5. JustRing Nepal
 6. Doersbase
 7. Idooco
+8. Axion Infosys
+
+
 
 # IT organization
 1. CSIT Association of BMC
