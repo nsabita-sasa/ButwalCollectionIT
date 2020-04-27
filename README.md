@@ -24,12 +24,13 @@
 7. Axion Infosys
 8. Webroot Nepal
 9. Butwal Web
-10. Eagel Eye
+10. Eagle Eye
+11. Karma Softudio
 ---
 
 # IT organization
 1. CSIT Association of BMC
 2. Butwal Coder Girls
 3. Robotics club of LEC
-4. CSIT Association of Nepal - Butwal (Renamed to Rupandehi) // CSITAN Association of Rupandehi
-5. Computer Association of Nepal - Rupandehi
+4. CSIT Association of Nepal - Butwal (Renamed to Rupandehi) // CSITAN Association of Nepal - Rupandehi
+5. Federation Computer Association of Nepal - Rupandehi
